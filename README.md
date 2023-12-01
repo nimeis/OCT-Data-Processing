@@ -1,0 +1,1 @@
+OCT data proccesing for LMU Photonic Lab. Utlizing Alazar tech SDK to aquired data from on-board occiliscope. Procces waveform data using cuda for parralleled fast fourier transform. Proccess the fringes in the transform to opacity on the sample cube. Display opacities and point osing openGL. Allows user to analyze sample cube from multiple dimensions.
